@@ -1,0 +1,3 @@
+set name = "Aritro Saha";
+
+print(name);
